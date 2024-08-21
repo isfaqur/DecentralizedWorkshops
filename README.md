@@ -3,6 +3,8 @@
 
 # Decentralized Workshops on Emerging Industry Trends
 
+# contract address: 0x2412398b864Fc6e5360732Bbe07342A328aA0F51
+
 ## Project Description
 
 The "Decentralized Workshops on Emerging Industry Trends" project aims to create a series of workshops that focus on cutting-edge industry developments and technological advancements. These workshops will be hosted in a decentralized manner, leveraging a network of local experts and industry professionals to provide valuable insights and hands-on experiences in various fields. By decentralizing the workshop locations and facilitators, we aim to foster a more inclusive and diverse learning environment that caters to different regions and communities.
