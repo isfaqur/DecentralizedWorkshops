@@ -4,6 +4,7 @@
 # Decentralized Workshops on Emerging Industry Trends
 
 # contract address: 0x2412398b864Fc6e5360732Bbe07342A328aA0F51
+![Uploading image.png…]()
 
 ## Project Description
 
